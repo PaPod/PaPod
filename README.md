@@ -32,6 +32,6 @@
 ---
 
 ## 📫 Get in Touch
-- LinkedIn: [your-link](#)  
-- Telegram: [your-link](#)  
-- Email: [your-email](#)  
+- LinkedIn: [(https://www.linkedin.com/in/papod/)](#)  
+- Telegram: [@PanchousP](#)  
+- Email: [podorozhnypavel@gmail.com](#)  
